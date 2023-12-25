@@ -2,8 +2,8 @@
 
 >**Notice**: <br /> - The goal of convention is to ensure that all members in the team follow a consistent process. Typically, each individual may have their own preferred naming and coding style. What's crucial is that not all opinions are clearly right or wrong, which is why we need a convention to keep everything aligned and consistent. This will help everyone understand, search, and collaborate on each other's work more quickly and easily. <br /> - However, the convention is meant to improve performance rather than restrict it, so everyone's contributions will be welcomed. Flexibility in its usage is also an important factor in achieving good results.
 ## Table of contents
-- [Code Convention](/#code-convention)
-- [Folder structure](/#folder-structure)
+- [Code Convention](#code-convention)
+- [Folder structure](#folder-structure)
 - [Name conventions](#name-conventions)
 - [Common rules](#common-rules)
 - [Naming React components & props](#naming-react-components-props)
